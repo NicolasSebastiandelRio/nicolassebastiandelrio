@@ -1,6 +1,6 @@
 ### Hi, I´m Nicolás 👋
 - 💻 Software Engineering student (third year) at Universidad del Salvador (USAL)
-- 👨‍🎓 Graduated as a [Software Technician] (https://www.linkedin.com/in/nicol%C3%A1s-del-rio-08810523b/details/education/?locale=en_US) at the Instituto Tecnico Industrial San Judas Tadeo of Buenos Aires, Argentina
+- 👨‍🎓 Graduated as a [Software Technician](https://www.linkedin.com/in/nicol%C3%A1s-del-rio-08810523b/details/education/?locale=en_US) at the Instituto Tecnico Industrial San Judas Tadeo of Buenos Aires, Argentina
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
 - 
